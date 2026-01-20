@@ -1,0 +1,5 @@
+{
+  "name": "LP Forge for ClickMax",
+  "description": "Workflow de criação de Landing Pages otimizadas para ClickMax usando Gemini. Insira sua copy e referências, receba o código HTML pronto.",
+  "requestFramePermissions": []
+}
