@@ -1,0 +1,18 @@
+# AIOS Project Configuration
+version: 2.1.0
+project:
+  name: lp-forge-for-clickmax
+  type: existing
+  created: 2026-01-31
+
+environment:
+  bootstrapped: true
+  bootstrap_date: 2026-01-31T00:00:00
+
+workflow:
+  current: development
+  phase: bootstrapped
+
+settings:
+  auto_update_status: true
+  quality_gates_enabled: true
